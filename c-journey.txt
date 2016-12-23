@@ -1,0 +1,4 @@
+Hi this is hari.
+i am learning git.
+This is my first assignment.
+lets start
